@@ -1,7 +1,7 @@
 from tkinter import *
+from tkinter import messagebox
 import os.path
 import pytube
-from tkinter import messagebox
 
 root=Tk()
 root.geometry("500x250")
